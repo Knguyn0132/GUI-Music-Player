@@ -1,0 +1,47 @@
+4
+Happier Than Ever
+Billie Eillish
+images/happier_than_ever.jpg
+4
+Getting Older
+musics/getting_older.mp3
+Billie Bossa Nova
+musics/billie_bossa_nova.mp3
+Oxytocin
+musics/oxytocin.mp3
+Lost Cause
+musics/lost_cause.mp3
+Apricot Princess
+Rex Orange County
+images/apricot_princess.jpg
+4
+Television
+musics/television.mp3
+Nothing
+musics/nothing.mp3
+Waiting Room
+musics/waiting_room.mp3
+Sycamore Girl
+musics/sycamore_girl.mp3
+99%
+MCK
+images/99%.jpg
+3
+Chim Sau
+musics/chim_sau.mp3
+Thoi Em Dung Di
+musics/thoi_em_dung_di.mp3
+Tai Vi Sao
+musics/tai_vi_sao.mp3
+rapunzel
+drhuv
+images/rapunzel.jpg
+3
+retrograde
+musics/retrograde.mp3
+double take
+musics/double_take.mp3
+moonlight
+musics/moonlight.mp3
+
+
